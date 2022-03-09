@@ -1,6 +1,9 @@
 /**
- *Submitted for verification at BscScan.com on 2022-02-09
+ *Submitted for verification at BscScan.com on 2022-03-07
 */
+
+/**
+Update for Launchpad*/
 
 /*
 MichaelJacksonCoin is a innovative new kind of money, and store of value with the vision of 
